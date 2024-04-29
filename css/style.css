@@ -1,0 +1,53 @@
+body {
+    background-color: #08161e;
+    font-family: 'Courier New', Courier, monospace;
+    color:  antiquewhite;
+}
+
+.my_photo {
+    background: url(../images/processor.jpg) no-repeat center center;
+    background-size: 100%;
+    width: 600px;
+    height: 300px;
+}
+
+.my_reverse_photo {
+    background: url(../images/reverse.webp) no-repeat center center;
+    background-size: 100%;
+    width: 650px;
+    height: 450px;
+}
+.nav_logo {
+    background: url(../images/ctf.jpg) no-repeat center center;
+    background-size: 100%;
+    width: 100px;
+    height: 100px;
+}
+.nav_bar {
+    font-size: 30px;
+    font-weight: bold;
+}
+.nav_text {
+    display: flex;
+    align-items: center;
+    justify-content: right;
+}
+.container {
+    margin-top: 30px;
+}
+.title_photo {
+    text-align: center;
+}
+.row {
+}
+.col-8 {
+}
+.col-4 {
+}
+.col-3.nav_logo {
+}
+.col-9 {
+}
+.img_size {
+}
+
